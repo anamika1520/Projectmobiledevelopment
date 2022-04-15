@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111366698125",
+    "project_id": "ft-tracker-db",
+    "storage_bucket": "ft-tracker-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111366698125:android:cbca868f0ba87a7a991ec4",
+        "android_client_info": {
+          "package_name": "com.project.fttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111366698125-aua8fcl56ko9krb2nsbdbc748j1dm75v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVO5UM3Xoi64S47j6nA75dYR1AO9quwzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111366698125-aua8fcl56ko9krb2nsbdbc748j1dm75v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
